@@ -1,0 +1,14 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "integration_test": "file:../har/integration_test.har",
+    "camera_ohos": "file:../har/camera_ohos.har",
+    "path_provider_ohos": "file:../har/path_provider_ohos.har",
+    "video_player_ohos": "file:../har/video_player_ohos.har"
+  }
+}
